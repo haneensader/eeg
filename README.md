@@ -1,1 +1,1 @@
-"Welcome to EEG Artefacts Removal Project!" 
+Welcome to EEG Artefacts Removal Project!
